@@ -8,7 +8,6 @@ This repository contains the implementation of K-Nearest Neighbors (KNN) classif
 - [Datasets](#datasets)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Results](#results)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -38,10 +37,23 @@ cd knn-classification-digits-wine
 pip install -r requirements.txt
 ```
 
-Usage
+##Usage
 The project contains Jupyter notebooks for each dataset. To run the notebooks, start Jupyter Lab or Jupyter Notebook.
 
 ```bash 
 jupyter lab
 ```
 Open the KNN_Classification_of_digits-dataset_and_wine-dataset.ipynb notebooks to explore the KNN classification process for each dataset.
+
+##Contributing
+Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
+
+Fork the repository.
+Create a new branch (git checkout -b feature-branch).
+Make your changes.
+Commit your changes (git commit -m 'Add new feature').
+Push to the branch (git push origin feature-branch).
+Open a pull request.
+
+##License
+This project is licensed under the MIT License.
