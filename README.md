@@ -36,10 +36,11 @@ To get started, clone this repository and install the required dependencies.
 git clone https://github.com/yourusername/knn-classification-digits-wine.git
 cd knn-classification-digits-wine
 pip install -r requirements.txt
+```
 
 Usage
 The project contains Jupyter notebooks for each dataset. To run the notebooks, start Jupyter Lab or Jupyter Notebook.
 
+```jupyter lab```
 
-'''jupyter lab'''
 Open the KNN_Digits.ipynb and KNN_Wine.ipynb notebooks to explore the KNN classification process for each dataset.
