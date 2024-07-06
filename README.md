@@ -41,6 +41,7 @@ pip install -r requirements.txt
 Usage
 The project contains Jupyter notebooks for each dataset. To run the notebooks, start Jupyter Lab or Jupyter Notebook.
 
-```jupyter lab```
-
-Open the KNN_Digits.ipynb and KNN_Wine.ipynb notebooks to explore the KNN classification process for each dataset.
+```bash 
+jupyter lab
+```
+Open the KNN_Classification_of_digits-dataset_and_wine-dataset.ipynb notebooks to explore the KNN classification process for each dataset.
