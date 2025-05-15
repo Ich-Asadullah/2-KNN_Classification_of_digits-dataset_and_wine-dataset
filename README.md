@@ -32,7 +32,7 @@ The Wine dataset consists of 178 samples with 13 features, representing differen
 To get started, clone this repository and install the required dependencies.
 
 ```bash
-git clone https://github.com/yourusername/knn-classification-digits-wine.git
+git clone https://github.com/Ich-Asadullah/knn-classification-digits-wine.git
 cd knn-classification-digits-wine
 pip install -r requirements.txt
 ```
